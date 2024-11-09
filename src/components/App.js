@@ -1,10 +1,8 @@
-import Navbar from "../components/Navbar"
-import Search from "../components/Search"
-import Products from "../components/Products"
-import Aboutus from "./Aboutus"
-
-
-import Footer from "..components/Footer"
+import Navbar from "./Navbar";
+import Search from "./Search";
+import Products from "./Products";
+import Aboutus from "./Aboutus";
+import Footer from "./Footer";
 
 function App(){
     return(
